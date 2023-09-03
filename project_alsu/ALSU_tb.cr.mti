@@ -1,0 +1,8 @@
+{D:/study/digital/verilog codes/mycodes/project_alsu/ALSU_tb.v} {1 {vlog -work work {D:/study/digital/verilog codes/mycodes/project_alsu/ALSU_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALSU_tb
+
+Top level modules:
+	ALSU_tb
+
+} {} {}}
